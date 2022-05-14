@@ -1,7 +1,5 @@
-# Emerjoe Tamayo Rosas
-
 ![<hr>](https://github.com/RE-Tamayo/RE-Tamayo/blob/a5c33dd4073e52ca2204f3937f50fd843b9aad5c/_Some_generic_quote._.png)
-
+# Emerjoe Tamayo Rosas
 I'm Joe from The Philippines, I'm studying Web Development and Game Development. I like Javascript, Java, C++, C#, and Python.
 
 # Languages
