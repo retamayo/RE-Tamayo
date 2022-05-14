@@ -1,17 +1,16 @@
 # Emerjoe Tamayo Rosas
-#### <hr>
 
 ![<hr>](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Joe from The Philippines, I'm studying Web Development and Game Development. I like Javascript, Java, C++, C#, and Python.
 
 # Languages
-#### <hr>
-#📚HTML, CSS, JAVASCRIPT
+📚HTML, CSS, JAVASCRIPT
+💻JAVA, PHP, PYTHON
 
-- 🔭 I’m currently working on my capstone project. 
-- 🌱 I’m currently learning Javascript and PHP 
-- 📫 How to reach me: emerjoe.tamayo.rosas.neust.sic.cict@gmail.com 
+🔭 I’m currently working on my capstone project. 
+🌱 I’m currently learning Javascript and PHP 
+📫 How to reach me: emerjoe.tamayo.rosas.neust.sic.cict@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RE-Tamayo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/EmerjoeRosas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/RE_Tamayo/)  
