@@ -1,7 +1,8 @@
 ### Hi there 👋
-<p align="center" width="100%">
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RE-Tamayo)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
+I'm Joe from The Philippines, I'm studying Web Development and Game Development. I like Javascript, Java, C++, C#, and Python.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RE-Tamayo)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **RE-Tamayo/RE-Tamayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
