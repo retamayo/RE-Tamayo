@@ -5,7 +5,9 @@
 
 I'm Joe from The Philippines, I'm studying Web Development and Game Development. I like Javascript, Java, C++, C#, and Python.
 
-Skills: JS / HTML / CSS/ PHP / JAVA / PYTHON
+# Languages
+#### <hr>
+#📚HTML, CSS, JAVASCRIPT
 
 - 🔭 I’m currently working on my capstone project. 
 - 🌱 I’m currently learning Javascript and PHP 
