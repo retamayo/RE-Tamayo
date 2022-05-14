@@ -1,6 +1,6 @@
 # Emerjoe Tamayo Rosas
 
-![<hr>](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![<hr>](https://github.com/RE-Tamayo/RE-Tamayo/_Some_generic_quote._.png)
 
 I'm Joe from The Philippines, I'm studying Web Development and Game Development. I like Javascript, Java, C++, C#, and Python.
 
