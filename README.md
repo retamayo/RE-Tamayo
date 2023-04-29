@@ -15,5 +15,8 @@ I'm Joe from The Philippines, I'm studying Web Development and Game Development.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RE-Tamayo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/EmerjoeRosas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/RE_Tamayo/) 
 
 # Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RE-Tamayo&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RE-Tamayo&show_icons=true) 
+
+# Daily.dev Card
+<a href="https://app.daily.dev/RE-Tamayo"><img src="https://api.daily.dev/devcards/754ab1da7a1e4a0aa59f33988db79fcd.png?r=xd0" width="400" alt="Emerjoe Rosas's Dev Card"/></a>
 
